@@ -1,5 +1,13 @@
  
  
+
+/*
+
+Runtime: 20 ms, faster than 99.58% of C++ online submissions for Validate Binary Search Tree.
+Memory Usage: 21.1 MB, less than 6.87% of C++ online submissions for Validate Binary Search Tree.
+
+
+*/
  
  
  
